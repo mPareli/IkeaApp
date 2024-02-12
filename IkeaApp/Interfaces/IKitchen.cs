@@ -1,6 +1,6 @@
 ﻿namespace IkeaApp.Interfaces;
 
-public class IKitchen
+public interface IKitchen
 {
-    
+    public String Kitchen();
 }

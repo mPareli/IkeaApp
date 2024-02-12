@@ -1,6 +1,6 @@
 ﻿namespace IkeaApp.Interfaces;
 
-public class ILivingRoom
+public interface ILivingRoom
 {
-    
+    public String Livingroom();
 }

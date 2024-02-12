@@ -1,6 +1,6 @@
 ﻿namespace IkeaApp.Interfaces;
 
-public class IOffice
+public interface IOffice
 {
-    
+    public String Office();
 }
